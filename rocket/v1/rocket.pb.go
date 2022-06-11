@@ -444,7 +444,7 @@ var file_rocket_v1_rocket_proto_depIdxs = []int32{
 	0, // 3: rocket.DeleteRocketRequest.rocket:type_name -> rocket.Rocket
 	1, // 4: rocket.RocketService.GetRocket:input_type -> rocket.GetRocketRequest
 	3, // 5: rocket.RocketService.AddRocket:input_type -> rocket.AddRocketRequest
-	5, // 6: rocket.RocketService.DeleteRocket:input_type -> rocket.DeleteRocketRequest
+	5, // 6: rocket.8ice.DeleteRocket:input_type -> rocket.DeleteRocketRequest
 	2, // 7: rocket.RocketService.GetRocket:output_type -> rocket.GetRocketResponse
 	4, // 8: rocket.RocketService.AddRocket:output_type -> rocket.AddRocketResponse
 	6, // 9: rocket.RocketService.DeleteRocket:output_type -> rocket.DeleteRocketResponse
